@@ -6,7 +6,7 @@ class ChallengingPage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Text(
-          "Really Challenging",
+          "Really Challenging Task",
           style: Theme.of(context).textTheme.headline1,
         ),
       ),
